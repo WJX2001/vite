@@ -1,0 +1,17 @@
+{
+  "name": "engineer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "vite": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "vite": "^4.1.1",
+    "vue": "^3.2.47"
+  }
+}
